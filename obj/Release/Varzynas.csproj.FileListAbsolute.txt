@@ -15,3 +15,4 @@ C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Releas
 C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Release\Varzynas.Form1.resources
 C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Release\Varzynas.Properties.Resources.resources
 C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Release\Varzynas.csproj.GenerateResource.Cache
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Release\Varzynas.csprojResolveAssemblyReference.cache

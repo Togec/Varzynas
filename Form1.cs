@@ -28,76 +28,6 @@ namespace Varzynas
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x10);
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x11);
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x12);
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x13);
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x14);
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x15);
-        }
-
-        private void button7_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x16);
-        }
-
-        private void button8_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x20);
-        }
-
-        private void button9_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x21);
-        }
-
-        private void button10_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x22);
-        }
-
-        private void button11_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x23);
-        }
-
-        private void button12_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x24);
-        }
-
-        private void button13_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x25);
-        }
-
-        private void button14_Click(object sender, EventArgs e)
-        {
-            CMD_send(0x26);
-        }
-
         void getAvailablePorts()
         {
             String[] ports = SerialPort.GetPortNames();
@@ -140,6 +70,96 @@ namespace Varzynas
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton9_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton9_CheckedChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+            if(radioButton1.Checked)
+             {
+                CMD_send(0x10);
+             }
+
+            if (radioButton2.Checked)
+            {
+                CMD_send(0x11);
+            }
+
+            if (radioButton3.Checked)
+            {
+                CMD_send(0x12);
+            }
+
+            if (radioButton4.Checked)
+            {
+                CMD_send(0x13);
+            }
+
+            if (radioButton5.Checked)
+            {
+                CMD_send(0x14);
+            }
+
+            if (radioButton6.Checked)
+            {
+                CMD_send(0x15);
+            }
+
+            if (radioButton7.Checked)
+            {
+                CMD_send(0x16);
+            }
+
+
+            if (radioButton8.Checked)
+            {
+                CMD_send(0x20);
+            }
+
+            if (radioButton9.Checked)
+            {
+                CMD_send(0x21);
+            }
+
+            if (radioButton10.Checked)
+            {
+                CMD_send(0x22);
+            }
+
+            if (radioButton11.Checked)
+            {
+                CMD_send(0x23);
+            }
+
+            if (radioButton12.Checked)
+            {
+                CMD_send(0x24);
+            }
+
+            if (radioButton13.Checked)
+            {
+                CMD_send(0x25);
+            }
+
+            if (radioButton14.Checked)
+            {
+                CMD_send(0x26);
+            }
         }
     }
 }
