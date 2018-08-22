@@ -1,0 +1,18 @@
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\bin\Debug\Varzynas.exe.config
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\bin\Debug\Varzynas.exe
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\bin\Debug\Varzynas.pdb
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.Form1.resources
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.Properties.Resources.resources
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.csproj.GenerateResource.Cache
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.exe
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.pdb
+E:\_CODE\Visual Studio 2015\Varzynas\Varzynas\obj\Debug\Varzynas.csprojResolveAssemblyReference.cache
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\bin\Debug\Varzynas.exe.config
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.exe
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.pdb
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\bin\Debug\Varzynas.exe
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\bin\Debug\Varzynas.pdb
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.csprojResolveAssemblyReference.cache
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.Form1.resources
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.Properties.Resources.resources
+C:\Users\tomas.gecas\Documents\_Programos\_Varzynas\Varzynas\Varzynas\obj\Debug\Varzynas.csproj.GenerateResource.Cache
